@@ -1,0 +1,48 @@
+*{
+    background:#EAE7DE;
+  }
+  
+  .main{
+    padding:20px; 
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+  }
+  .heading_{
+    text-align:center;
+    display:flex;
+    width:100%;
+    flex-direction:column;
+    
+    font-size:24px;
+    font-family: 'Roboto', sans-serif;
+    color: #E85C53;
+  }
+  .heading_1{
+    text-align:center;
+    width:100%;
+    font size:20px;
+    font-family: 'Roboto', sans-serif;
+    color: #E85C53;
+  }
+  ol{
+    padding:0 20px;
+    font-family: 'Roboto', sans-serif;
+    width: 90%;
+  }
+  
+  li{
+    padding:5px;
+  }
+  
+  .img {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+  }
+  
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
